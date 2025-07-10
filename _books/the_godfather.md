@@ -1,27 +1,36 @@
 ---
 layout: book-review
-title: The Godfather
-author: Mario Puzo
-cover: assets/img/book_covers/the_godfather.jpg
-olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: classics crime historical-fiction mystery novels thriller
-tags: top-100
-buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
-started: 2024-08-23
-finished: 2024-09-07
-released: 1969
+title: Remote Sensing and GIS for Ecologists
+author: Martin Wegmann, Benjamin Leutner, Stefan Dech
+cover: assets/img/book_covers/remote_sensing_gis_ecologists.jpg
+isbn: 9781784270223
+categories: ecology gis remote-sensing spatial-analysis conservation
+tags: open-source qgis r grass
+buy_link: https://www.nhbs.com/remote-sensing-and-gis-for-ecologists-book
+started: 2025-07-01
+finished: 2025-07-09
+released: 2016
 stars: 5
-goodreads_review: 6318556633
 status: Finished
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin eros sit amet ante aliquet, sit amet vulputate lectus mattis. Aenean ullamcorper pretium nunc, sed egestas lorem elementum id. Nulla id mi id neque ultrices egestas ut in urna. Sed ac ultricies nunc. Nam convallis placerat urna id egestas. Nulla porta, est interdum vestibulum venenatis, lorem odio laoreet sapien, in pulvinar tellus eros a dolor. Vivamus sapien justo, ullamcorper a mi eget, scelerisque euismod nunc. In augue augue, ultrices a ornare non, tincidunt quis justo. Donec sit amet consectetur eros. Nullam neque leo, tincidunt id ipsum ac, volutpat lobortis mi. Phasellus consequat ultricies arcu, eu semper ligula ultrices eget. Ut in fringilla elit, ac tincidunt nisi.
+**Remote Sensing and GIS for Ecologists** is a highly practical guide for ecologists and conservation scientists seeking to integrate spatial data into their research workflows. It is designed for beginners and intermediate users who want to understand both the **potential and limitations** of remote sensing in ecological contexts.
 
-Nunc commodo elit nec turpis feugiat consectetur. Nullam in nisi egestas, fermentum ligula hendrerit, euismod enim. Nulla eu hendrerit eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et velit ante. Vestibulum pretium vitae quam et sagittis. Proin eu nunc vel velit accumsan eleifend. Nulla facilisis, diam tempus imperdiet ultrices, massa ipsum consequat orci, sed efficitur eros mi a felis. Cras lobortis turpis sem, sed lobortis nunc ullamcorper tristique. Nam vehicula rhoncus ante, in faucibus sapien scelerisque et. Donec semper libero et tincidunt mattis. In vestibulum, nulla pretium dictum commodo, risus nulla vestibulum felis, at tincidunt massa mi in odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+The book walks readers through **field data planning**, **spatial data acquisition**, **pre-processing**, and **advanced analytics**, culminating in ecological applications like **land cover classification**, **change detection**, and **species distribution modeling**.
 
-Donec efficitur ultrices purus sit amet imperdiet. Nam consequat metus in erat sodales faucibus. Aliquam maximus fermentum nulla id finibus. Aliquam iaculis sed odio vel rutrum. Curabitur sed odio est. Praesent nec sollicitudin tortor. Praesent pharetra, turpis quis porttitor rhoncus, ante massa fringilla lacus, nec porttitor magna turpis vitae felis. Nullam tristique massa id odio imperdiet, nec sodales massa egestas. Proin nisi metus, euismod sed accumsan vitae, facilisis vel risus. Morbi suscipit auctor erat, nec viverra elit fringilla eu. Mauris congue, purus id tristique facilisis, felis nisi efficitur magna, eu consectetur augue sem vitae lacus. Aliquam erat volutpat. Cras at nibh ultricies, volutpat arcu vitae, dictum est. In ac dolor sagittis, egestas lectus et, semper nisl. Etiam consectetur purus vitae sapien porttitor auctor.
+What makes this book particularly valuable is its **exclusive reliance on OpenSource tools** — primarily **QGIS**, **R**, and **GRASS GIS** — and its use of **freely available datasets**, making it an accessible entry point for students and researchers working in resource-constrained environments.
 
-Nulla sit amet venenatis odio. Suspendisse ac lacus quis augue mollis tempus vel in lorem. Donec augue turpis, eleifend nec nibh eu, elementum dictum metus. Proin ut est ligula. Etiam vehicula facilisis metus, sit amet consectetur risus ullamcorper porttitor. In congue nibh quis sollicitudin iaculis. Donec a mollis lorem, non mollis lacus. Nulla et leo ex. Aliquam erat volutpat. Nam sit amet tincidunt mauris. Vivamus vitae est sit amet nisi semper egestas. Donec in diam pharetra, commodo diam vitae, imperdiet ligula. Cras iaculis ac diam eget vehicula. Proin suscipit ante enim, quis vehicula mi porta bibendum. Aliquam a diam porttitor, sollicitudin justo vitae, tempor odio.
+The structure is both didactic and technical. Readers are exposed to:
 
-Cras fermentum dignissim pretium. Donec quis turpis eu neque lacinia facilisis in sit amet nibh. Nulla non tortor ultricies, euismod est in, blandit nibh. Ut a neque metus. Sed convallis condimentum nibh quis finibus. Praesent aliquam sem iaculis eros maximus accumsan. Nulla venenatis mauris id aliquet maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim vitae ex porttitor vestibulum sed eget nibh. Suspendisse accumsan feugiat quam eget ultricies.
+- Clear introductions to spatial theory
+- Hands-on exercises
+- Code snippets for analysis and map-making
+- Time-series approaches
+- Land cover pattern and movement data analysis
+
+Whether you're planning your first ecological mapping project or seeking to improve your geospatial rigor, this book is a **must-read foundational resource**. It balances clarity with technical depth and offers an excellent springboard for more advanced geospatial work in ecology.
+
+---
+
+🛒 **[Buy the book here](https://www.nhbs.com/remote-sensing-and-gis-for-ecologists-book)**  
+📚 Ideal for: Ecologists, conservation planners, environmental scientists, and students in natural resource management.
