@@ -4,7 +4,7 @@ title: UAV-Based Forest Disturbance Assessment
 description: Integrating LiDAR and multispectral data to assess forest status and map disturbance severity in West African forests
 img: assets/img/3.jpg
 importance: 1
-category: research
+category: work
 giscus_comments: true
 ---
 
