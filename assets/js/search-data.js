@@ -67,11 +67,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/RS%20&%20GIS%20for%20Ecologists/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-exciting-news-chima-j-iheaturu-has-been-selected-as-an-ipbes-fellow-for-the-ongoing-thematic-assessment-on-spatial-planning-and-ecological-connectivity",
           title: '🎉 Exciting news! Chima J. Iheaturu has been selected as an IPBES Fellow...',
           description: "",
