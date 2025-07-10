@@ -69,6 +69,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/Who-Owns-Knowledge/";
           
         },
+      },{id: "post-a-post-with-image-galleries",
+        
+          title: "a post with image galleries",
+        
+        description: "this is what included image galleries could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/photo-gallery/";
+          
+        },
       },{id: "post-a-post-with-tabs",
         
           title: "a post with tabs",
@@ -333,6 +344,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/twitter/";
           
         },
+      },{id: "post-a-post-with-disqus-comments",
+        
+          title: "a post with disqus comments",
+        
+        description: "an example of a blog post with disqus comments",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/disqus-comments/";
+          
+        },
       },{id: "post-a-post-with-math",
         
           title: "a post with math",
@@ -342,6 +364,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/math/";
+          
+        },
+      },{id: "post-a-post-with-code",
+        
+          title: "a post with code",
+        
+        description: "an example of a blog post with some code",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/code/";
           
         },
       },{id: "books-remote-sensing-and-gis-for-ecologists",
