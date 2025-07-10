@@ -426,7 +426,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-exciting-news-chima-j-iheaturu-has-been-selected-as-an-ipbes-fellow-for-the-ongoing-thematic-assessment-on-spatial-planning-and-ecological-connectivity-an-important-step-toward-strengthening-science-policy-interfaces-and-promoting-inclusive-biodiversity-governance",
+            },},{id: "news-exciting-news-chima-j-iheaturu-has-been-selected-as-an-ipbes-fellow-for-the-ongoing-thematic-assessment-on-spatial-planning-and-ecological-connectivity",
           title: '🎉 Exciting news! Chima J. Iheaturu has been selected as an IPBES Fellow...',
           description: "",
           section: "News",},{id: "projects-remote-sensing-and-local-narratives-converge-and-diverge-on-forest-change-in-west-africa",
