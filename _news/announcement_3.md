@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-07-10 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+🎉 Exciting news! **Chima J. Iheaturu** has been selected as an **IPBES Fellow** for the ongoing thematic assessment on **spatial planning and ecological connectivity**. 🌍🌱  
+An important step toward strengthening science-policy interfaces and promoting inclusive biodiversity governance! 🚀
