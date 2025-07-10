@@ -417,7 +417,7 @@ ninja.data = [{
           title: 'Remote Sensing and GIS for Ecologists',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/RS%20&%20GIS%20for%20Ecologists/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
