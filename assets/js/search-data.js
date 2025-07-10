@@ -418,16 +418,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-exciting-news-chima-j-iheaturu-has-been-selected-as-an-ipbes-fellow-for-the-ongoing-thematic-assessment-on-spatial-planning-and-ecological-connectivity",
           title: '🎉 Exciting news! Chima J. Iheaturu has been selected as an IPBES Fellow...',
+          description: "",
+          section: "News",},{id: "news-all-roads-lead-to-cop15-️-the-15th-meeting-of-the-conference-of-the-contracting-parties-cop15-to-the-ramsar-convention-on-wetlands-will-be-held-from-23-31-july-2025-learn-more-and-stay-engaged-ramsar-cop15-details",
+          title: '🌍 All roads lead to COP15! 🛣️ The 15th Meeting of the Conference...',
           description: "",
           section: "News",},{id: "projects-remote-sensing-and-local-narratives-converge-and-diverge-on-forest-change-in-west-africa",
           title: 'Remote sensing and local narratives converge and diverge on forest change in West...',
