@@ -434,9 +434,9 @@ ninja.data = [{
           description: "Integrating satellite observations with community insights to enhance forest monitoring and conservation strategies.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-uav-based-forest-disturbance-assessment",
+          title: 'UAV-Based Forest Disturbance Assessment',
+          description: "Integrating LiDAR and multispectral data to assess forest status and map disturbance severity in West African forests",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
