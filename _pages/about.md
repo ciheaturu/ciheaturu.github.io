@@ -5,7 +5,6 @@ permalink: /
 subtitle: >
   <a href='https://www.geography.unibe.ch/'>Institute of Geography</a>, University of Bern.  
   <a href='https://ipbes.net/'>IPBES Fellow</a>.  
-  Remote Sensing • Forest Change • Geospatial Data Science.
 
 profile:
   align: right
