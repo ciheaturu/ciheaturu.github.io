@@ -7,9 +7,9 @@ first_name: Chima
 middle_name: J.
 last_name: Iheaturu
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best reached by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Remote sensing, forest dynamics, and geospatial data science for tropical landscapes.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
