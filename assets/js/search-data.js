@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A selection of applied research projects using geospatial data, remote sensing, and participatory methods to monitor tropical forest dynamics, assess ecological change, and inform conservation strategies in West Africa and beyond.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
