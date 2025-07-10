@@ -355,6 +355,17 @@ ninja.data = [{
             window.location.href = "/blog/2015/math/";
           
         },
+      },{id: "post-a-post-with-code",
+        
+          title: "a post with code",
+        
+        description: "an example of a blog post with some code",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/code/";
+          
+        },
       },{id: "books-remote-sensing-and-gis-for-ecologists",
           title: 'Remote Sensing and GIS for Ecologists',
           description: "",
