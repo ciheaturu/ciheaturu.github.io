@@ -69,6 +69,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/Who-Owns-Knowledge/";
           
         },
+      },{id: "post-a-post-that-can-be-cited",
+        
+          title: "a post that can be cited",
+        
+        description: "this is what a post that can be cited looks like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/post-citation/";
+          
+        },
       },{id: "books-remote-sensing-and-gis-for-ecologists",
           title: 'Remote Sensing and GIS for Ecologists',
           description: "",
