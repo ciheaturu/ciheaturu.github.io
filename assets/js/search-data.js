@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-who-owns-knowledge-the-dangers-of-parachute-science-in-west-african-forest-research",
         
-          title: "a post with plotly.js",
+          title: "Who Owns Knowledge? The Dangers of Parachute Science in West African Forest Research...",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Reflections on epistemic justice, power, and local agency in tropical forest research.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/Who-Owns-Knowledge/";
           
         },
       },{id: "post-a-post-with-image-galleries",
