@@ -4,7 +4,7 @@ title: Remote sensing and local narratives converge and diverge on forest change
 description: Integrating satellite observations with community insights to enhance forest monitoring and conservation strategies.
 img: assets/img/7.jpg
 importance: 3
-category: research
+category: work
 ---
 
 Understanding tropical forest change necessitates integrating satellite observations with insights from forest-dependent communities. In West Africa, deforestation and ecological degradation occur within complex social-ecological systems, yet traditional forest monitoring often neglects community insights. Satellite imagery provides broad spatial and temporal coverage but may overlook fine-scale disturbances such as canopy thinning or understory removal. Meanwhile, forest-dependent communities hold valuable, place-based knowledge of environmental change that is rarely integrated into monitoring frameworks.
