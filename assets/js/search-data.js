@@ -439,9 +439,9 @@ ninja.data = [{
           description: "Integrating LiDAR and multispectral data to assess forest status and map disturbance severity in West African forests",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-an-object-based-sampling-approach-for-validating-fragmented-forest-cover-in-tropical-landscapes",
+          title: 'An object-based sampling approach for validating fragmented forest cover in tropical landscapes',
+          description: "Developing robust validation methods for forest cover maps in complex tropical ecosystems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
