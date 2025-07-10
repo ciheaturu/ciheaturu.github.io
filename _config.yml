@@ -7,7 +7,7 @@ first_name: Chima
 middle_name: J.
 last_name: Iheaturu
 contact_note: >
-  Best reached by email.
+  Best reached by email
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Remote sensing, forest dynamics, and geospatial data science for tropical landscapes.
 footer_text: >
