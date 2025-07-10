@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ciheaturu.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://ciheaturu.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-07-10T18:24:56+00:00</updated><id>https://ciheaturu.github.io/feed.xml</id><title type="html">blank</title><subtitle>Remote sensing, forest dynamics, and geospatial data science for tropical landscapes. </subtitle><entry><title type="html">Who Owns Knowledge? The Dangers of Parachute Science in West African Forest Research</title><link href="https://ciheaturu.github.io/blog/2025/Who-Owns-Knowledge/" rel="alternate" type="text/html" title="Who Owns Knowledge? The Dangers of Parachute Science in West African Forest Research"/><published>2025-07-10T00:00:00+00:00</published><updated>2025-07-10T00:00:00+00:00</updated><id>https://ciheaturu.github.io/blog/2025/Who%20Owns%20Knowledge</id><content type="html" xml:base="https://ciheaturu.github.io/blog/2025/Who-Owns-Knowledge/"><![CDATA[<p>In the vast tropical landscapes of West Africa, the forest is not just a carbon sink or biodiversity hotspot — it is home, heritage, and lifeline. Yet much of the scientific work conducted in these regions is often shaped by actors far removed from their realities.</p> <p><strong>Parachute science</strong> — the practice where researchers from the Global North “drop in” to conduct studies with minimal local collaboration or long-term engagement — remains a pervasive problem in forest research. The result? Data extracted without context, reports that fail to resonate locally, and recommendations that do not align with lived realities.</p> <p>But the issue runs deeper. It begs a fundamental question: <strong>Who owns knowledge?</strong></p> <p>Local communities and researchers in West Africa have deep, place-based understandings of forest dynamics, degradation patterns, and resilience strategies. These knowledges — rich, experiential, and often orally transmitted — are rarely valued on the same footing as satellite metrics or peer-reviewed outputs. This marginalization undermines not just epistemic justice but the effectiveness of conservation and policy interventions.</p> <p>Reframing forest research in West Africa requires a commitment to <strong>co-production of knowledge</strong>, <strong>equitable partnerships</strong>, and <strong>capacity building</strong>. It also means recognizing that mapping a forest is not just a technical exercise — it’s a political act.</p> <p>Let’s challenge the extractive legacies of environmental science. Let’s build research that listens before it measures, collaborates before it concludes, and shares before it publishes.</p> <p><em>This post draws on experiences from the SUSTAINFORESTS project and recent reflections on integrating local narratives with satellite observations.</em></p> <hr/> <p>Want to contribute your perspective? <a href="mailto:chima.iheaturu@unibe.ch">Contact me</a>.</p>]]></content><author><name></name></author><category term="forest governance"/><category term="parachute science"/><category term="West Africa"/><category term="forest research"/><category term="knowledge justice"/><summary type="html"><![CDATA[Reflections on epistemic justice, power, and local agency in tropical forest research.]]></summary></entry><entry><title type="html">a post that can be cited</title><link href="https://ciheaturu.github.io/blog/2024/post-citation/" rel="alternate" type="text/html" title="a post that can be cited"/><published>2024-04-28T15:06:00+00:00</published><updated>2024-04-28T15:06:00+00:00</updated><id>https://ciheaturu.github.io/blog/2024/post-citation</id><content type="html" xml:base="https://ciheaturu.github.io/blog/2024/post-citation/"><![CDATA[<p>This is an example post that can be cited. The content of the post ends here, while the citation information is automatically provided below. The only thing needed is for you to set the <code class="language-plaintext highlighter-rouge">citation</code> key in the front matter to <code class="language-plaintext highlighter-rouge">true</code>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="citation"/><summary type="html"><![CDATA[this is what a post that can be cited looks like]]></summary></entry><entry><title type="html">a post with pseudo code</title><link href="https://ciheaturu.github.io/blog/2024/pseudocode/" rel="alternate" type="text/html" title="a post with pseudo code"/><published>2024-04-15T00:01:00+00:00</published><updated>2024-04-15T00:01:00+00:00</updated><id>https://ciheaturu.github.io/blog/2024/pseudocode</id><content type="html" xml:base="https://ciheaturu.github.io/blog/2024/pseudocode/"><![CDATA[<p>This is an example post with some pseudo code rendered by <a href="https://github.com/SaswatPadhi/pseudocode.js">pseudocode</a>. The example presented here is the same as the one in the <a href="https://saswat.padhi.me/pseudocode.js/">pseudocode.js</a> documentation, with only one simple but important change: everytime you would use <code class="language-plaintext highlighter-rouge">$</code>, you should use <code class="language-plaintext highlighter-rouge">$$</code> instead. Also, note that the <code class="language-plaintext highlighter-rouge">pseudocode</code> key in the front matter is set to <code class="language-plaintext highlighter-rouge">true</code> to enable the rendering of pseudo code. As an example, using this code:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">pseudocode
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ciheaturu.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://ciheaturu.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-07-10T18:25:05+00:00</updated><id>https://ciheaturu.github.io/feed.xml</id><title type="html">blank</title><subtitle>Remote sensing, forest dynamics, and geospatial data science for tropical landscapes. </subtitle><entry><title type="html">Who Owns Knowledge? The Dangers of Parachute Science in West African Forest Research</title><link href="https://ciheaturu.github.io/blog/2025/Who-Owns-Knowledge/" rel="alternate" type="text/html" title="Who Owns Knowledge? The Dangers of Parachute Science in West African Forest Research"/><published>2025-07-10T00:00:00+00:00</published><updated>2025-07-10T00:00:00+00:00</updated><id>https://ciheaturu.github.io/blog/2025/Who%20Owns%20Knowledge</id><content type="html" xml:base="https://ciheaturu.github.io/blog/2025/Who-Owns-Knowledge/"><![CDATA[<p>In the vast tropical landscapes of West Africa, the forest is not just a carbon sink or biodiversity hotspot — it is home, heritage, and lifeline. Yet much of the scientific work conducted in these regions is often shaped by actors far removed from their realities.</p> <p><strong>Parachute science</strong> — the practice where researchers from the Global North “drop in” to conduct studies with minimal local collaboration or long-term engagement — remains a pervasive problem in forest research. The result? Data extracted without context, reports that fail to resonate locally, and recommendations that do not align with lived realities.</p> <p>But the issue runs deeper. It begs a fundamental question: <strong>Who owns knowledge?</strong></p> <p>Local communities and researchers in West Africa have deep, place-based understandings of forest dynamics, degradation patterns, and resilience strategies. These knowledges — rich, experiential, and often orally transmitted — are rarely valued on the same footing as satellite metrics or peer-reviewed outputs. This marginalization undermines not just epistemic justice but the effectiveness of conservation and policy interventions.</p> <p>Reframing forest research in West Africa requires a commitment to <strong>co-production of knowledge</strong>, <strong>equitable partnerships</strong>, and <strong>capacity building</strong>. It also means recognizing that mapping a forest is not just a technical exercise — it’s a political act.</p> <p>Let’s challenge the extractive legacies of environmental science. Let’s build research that listens before it measures, collaborates before it concludes, and shares before it publishes.</p> <p><em>This post draws on experiences from the SUSTAINFORESTS project and recent reflections on integrating local narratives with satellite observations.</em></p> <hr/> <p>Want to contribute your perspective? <a href="mailto:chima.iheaturu@unibe.ch">Contact me</a>.</p>]]></content><author><name></name></author><category term="forest governance"/><category term="parachute science"/><category term="West Africa"/><category term="forest research"/><category term="knowledge justice"/><summary type="html"><![CDATA[Reflections on epistemic justice, power, and local agency in tropical forest research.]]></summary></entry><entry><title type="html">a post that can be cited</title><link href="https://ciheaturu.github.io/blog/2024/post-citation/" rel="alternate" type="text/html" title="a post that can be cited"/><published>2024-04-28T15:06:00+00:00</published><updated>2024-04-28T15:06:00+00:00</updated><id>https://ciheaturu.github.io/blog/2024/post-citation</id><content type="html" xml:base="https://ciheaturu.github.io/blog/2024/post-citation/"><![CDATA[<p>This is an example post that can be cited. The content of the post ends here, while the citation information is automatically provided below. The only thing needed is for you to set the <code class="language-plaintext highlighter-rouge">citation</code> key in the front matter to <code class="language-plaintext highlighter-rouge">true</code>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="citation"/><summary type="html"><![CDATA[this is what a post that can be cited looks like]]></summary></entry><entry><title type="html">a post with pseudo code</title><link href="https://ciheaturu.github.io/blog/2024/pseudocode/" rel="alternate" type="text/html" title="a post with pseudo code"/><published>2024-04-15T00:01:00+00:00</published><updated>2024-04-15T00:01:00+00:00</updated><id>https://ciheaturu.github.io/blog/2024/pseudocode</id><content type="html" xml:base="https://ciheaturu.github.io/blog/2024/pseudocode/"><![CDATA[<p>This is an example post with some pseudo code rendered by <a href="https://github.com/SaswatPadhi/pseudocode.js">pseudocode</a>. The example presented here is the same as the one in the <a href="https://saswat.padhi.me/pseudocode.js/">pseudocode.js</a> documentation, with only one simple but important change: everytime you would use <code class="language-plaintext highlighter-rouge">$</code>, you should use <code class="language-plaintext highlighter-rouge">$$</code> instead. Also, note that the <code class="language-plaintext highlighter-rouge">pseudocode</code> key in the front matter is set to <code class="language-plaintext highlighter-rouge">true</code> to enable the rendering of pseudo code. As an example, using this code:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">pseudocode
 </span><span class="sb">% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
 \begin{algorithm}
 \caption{Quicksort}
@@ -50,86 +50,4 @@
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included pseudo code could look like]]></summary></entry><entry><title type="html">a post with vega lite</title><link href="https://ciheaturu.github.io/blog/2024/vega-lite/" rel="alternate" type="text/html" title="a post with vega lite"/><published>2024-01-27T00:20:00+00:00</published><updated>2024-01-27T00:20:00+00:00</updated><id>https://ciheaturu.github.io/blog/2024/vega-lite</id><content type="html" xml:base="https://ciheaturu.github.io/blog/2024/vega-lite/"><![CDATA[<p>This is an example post with some <a href="https://vega.github.io/vega-lite/">vega lite</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">vega_lite
-</span><span class="sb">{
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A dot plot showing each movie in the database, and the difference from the average movie rating. The display is sorted by year to visualize everything in sequential order. The graph is for all Movies before 2019.",
-  "data": {
-    "url": "https://raw.githubusercontent.com/vega/vega/main/docs/data/movies.json"
-  },
-  "transform": [
-    {"filter": "datum['IMDB Rating'] != null"},
-    {"filter": {"timeUnit": "year", "field": "Release Date", "range": [null, 2019]}},
-    {
-      "joinaggregate": [{
-        "op": "mean",
-        "field": "IMDB Rating",
-        "as": "AverageRating"
-      }]
-    },
-    {
-      "calculate": "datum['IMDB Rating'] - datum.AverageRating",
-      "as": "RatingDelta"
-    }
-  ],
-  "mark": "point",
-  "encoding": {
-    "x": {
-      "field": "Release Date",
-      "type": "temporal"
-    },
-    "y": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "title": "Rating Delta"
-    },
-    "color": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "scale": {"domainMid": 0},
-      "title": "Rating Delta"
-    }
-  }
-}</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-vega_lite">{
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A dot plot showing each movie in the database, and the difference from the average movie rating. The display is sorted by year to visualize everything in sequential order. The graph is for all Movies before 2019.",
-  "data": {
-    "url": "https://raw.githubusercontent.com/vega/vega/main/docs/data/movies.json"
-  },
-  "transform": [
-    {"filter": "datum['IMDB Rating'] != null"},
-    {"filter": {"timeUnit": "year", "field": "Release Date", "range": [null, 2019]}},
-    {
-      "joinaggregate": [{
-        "op": "mean",
-        "field": "IMDB Rating",
-        "as": "AverageRating"
-      }]
-    },
-    {
-      "calculate": "datum['IMDB Rating'] - datum.AverageRating",
-      "as": "RatingDelta"
-    }
-  ],
-  "mark": "point",
-  "encoding": {
-    "x": {
-      "field": "Release Date",
-      "type": "temporal"
-    },
-    "y": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "title": "Rating Delta"
-    },
-    "color": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "scale": {"domainMid": 0},
-      "title": "Rating Delta"
-    }
-  }
-}
-</code></pre> <p>This plot supports both light and dark themes.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><summary type="html"><![CDATA[this is what included vega lite code could look like]]></summary></entry></feed>
+</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included pseudo code could look like]]></summary></entry></feed>
